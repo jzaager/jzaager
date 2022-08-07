@@ -3,6 +3,6 @@
 <br/>
 <br/>
   
-I'm also an<a href=https://www.hollywoodreporter.com/movies/movie-news/students-comedy-script-optioned-by-744947/>Optioned Screenwriter!</a></h1>
+I'm also an <a href=https://www.hollywoodreporter.com/movies/movie-news/students-comedy-script-optioned-by-744947/>Optioned Screenwriter!</a></h1>
 
 You can follow my progress on my path to become a Full-Stack Web Developer <a href="https://github.com/jzaager">Here</a>
