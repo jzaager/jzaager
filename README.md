@@ -35,3 +35,15 @@ A single page layout of a sample admin dashboard.
 
 <hr/>
 
+### Sign-up Form
+
+An example sign up form with validation.
+
+- [Live Version](https://jzaager.github.io/sign-up-form/)
+- [Github Repo](https://github.com/jzaager/sign-up-form) 
+
+![sing-up-form](https://user-images.githubusercontent.com/94499968/195156305-fe587fe4-bd8e-4678-ba97-d8d58fe47689.png)
+
+<hr/>
+
+
