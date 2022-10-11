@@ -5,7 +5,7 @@
 ### I'm also an <a href="https://www.hollywoodreporter.com/movies/movie-news/students-comedy-script-optioned-by-744947/">Optioned Screenwriter!</a>
 <hr/>
 
-You can follow my progress on my path to become a Full-Stack Web Developer <a href="https://github.com/jzaager/jzaager">Right Here.</a>
+You can follow my progress on my path to become a Full-Stack Web Developer <a href="https://github.com/jzaager/jzaager">right here.</a>
 
 My most recent projects are below, but be sure to scroll back for the full timeline of my web development journey!
 
