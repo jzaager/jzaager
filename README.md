@@ -46,4 +46,37 @@ An example sign up form with validation.
 
 <hr/>
 
+## August 2022
 
+### Calculator
+
+A simple web application to calculate basic math equations based on user input.
+
+- [Live Version](https://jzaager.github.io/Calculator/)
+- [Github Repo](https://github.com/jzaager/Calculator)
+
+![image](https://user-images.githubusercontent.com/94499968/195336576-d5a9cc6b-75ed-42c5-ace0-1b455dccf84b.png)
+
+<hr/>
+
+## July 2022
+
+### Etch-a-Sketch
+
+A computerized version of a classic handheld toy.
+
+- [Live Version](https://jzaager.github.io/etch-a-sketch/)
+- [Github Repo](https://github.com/jzaager/etch-a-sketch)
+
+![image](https://user-images.githubusercontent.com/94499968/195337951-ec9de8cf-9432-421d-a90f-3fdc422701a4.png)
+
+<hr/>
+
+### Rock, Paper, Scissors
+
+Another classic game brought to life through the browswer.
+
+- [Live Version](https://jzaager.github.io/rock-paper-scissors/)
+- [Github Repo](https://github.com/jzaager/rock-paper-scissors)
+
+![image](https://user-images.githubusercontent.com/94499968/195338435-9667b6ac-7280-4025-adc2-beb7c1dda569.png)
