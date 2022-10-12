@@ -7,7 +7,7 @@
 
 You can follow my progress on my path to become a Full-Stack Web Developer <a href="https://github.com/jzaager/jzaager">right here.</a>
 
-My most recent projects are below, but be sure to scroll back for the full timeline of my web development journey!
+My most recent projects are below. Track my progress dating back to May 2022, when my journey began!
 
 ## October 2022
 
@@ -80,3 +80,38 @@ Another classic game brought to life through the browswer.
 - [Github Repo](https://github.com/jzaager/rock-paper-scissors)
 
 ![image](https://user-images.githubusercontent.com/94499968/195338435-9667b6ac-7280-4025-adc2-beb7c1dda569.png)
+
+<hr/>
+
+## June 2022
+
+### Dark Side Dobby Landing Page
+
+A sample landing page to practice basic CSS.
+
+- [Live Version](https://jzaager.github.io/DSD-Landing-Page/)
+- [Github Repo](https://github.com/jzaager/DSD-Landing-Page)
+
+![image](https://user-images.githubusercontent.com/94499968/195340242-cf8340d3-b2c7-4667-8fff-95bc9bd3110f.png)
+
+<hr/>
+
+## May 2022
+
+### Recipes
+
+My Very first Project. A page to store recipes used to practice basic HTML.
+
+- [Live Version](https://jzaager.github.io/odin-recipes/)
+- [Github Repo](https://github.com/jzaager/odin-recipes)
+
+![image](https://user-images.githubusercontent.com/94499968/195341194-a3676141-dfc8-4e76-94d2-9f8c04be3645.png)
+
+<hr/>
+
+
+###  ** *Bonus* ** 
+## May 17, 2022
+
+### [My first experience using git with github](https://github.com/jzaager/git_test)
+
