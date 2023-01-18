@@ -1,6 +1,6 @@
 # Hi, I'm Justin!
 
-## [Developing Front End Developer](https://github.com/jzaager), [Computer Enthusiast](https://medium.com/@jzaager), and [Software Development Student](https://www.wgu.edu/online-it-degrees/software-development-bachelors-program.html) at WGU
+## [Developing Front End Developer](https://github.com/jzaager), [Computer Enthusiast](https://medium.com/@jzaager), and [Software Engineering Student](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html) at WGU
 
 ### I'm also an <a href="https://www.hollywoodreporter.com/movies/movie-news/students-comedy-script-optioned-by-744947/">Optioned Screenwriter!</a>
 <hr/>
