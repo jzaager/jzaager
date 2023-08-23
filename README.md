@@ -9,6 +9,19 @@ You can follow my progress on my path to become a Full-Stack Web Developer <a hr
 
 My most recent projects are below. Track my progress dating back to May 2022, when my journey began!
 
+## August 2023
+
+### World Bank Data Retrieval Tool
+
+A web-based application developed to facilitate the retrieval and visualization of economic and geographical statistics for countries worldwide.
+
+- [Live Version](https://jzaager.github.io/world-map/docs/)
+- [Github Repo](https://github.com/jzaager/world-map/tree/main)
+
+![image](https://github.com/jzaager/jzaager/assets/94499968/a606e932-2ff1-459a-a430-1b8d7d067c1b)
+
+<hr/>
+
 ## October 2022
 
 ### Library App
