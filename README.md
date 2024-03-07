@@ -16,7 +16,7 @@
 ### Vacation Booking Application
 * Java, Spring Boot, MySQL
 
-Developed REST API back-end for vacation booking website with full CRUD functionality, cart/checkout system with order tracking number generation, and MySQL database storage.
+Developed REST API back-end, implementing full CRUD capabilities for a cart/checkout system, complete with integrated order tracking number generation and MySQL database storage.
 <br><br>
 ![image](https://github.com/jzaager/jzaager/assets/94499968/5ae139e7-b5ec-4fd8-8f76-de145d183459)
 ![image](https://github.com/jzaager/jzaager/assets/94499968/e3f1d73a-83ff-4238-9fa9-206dd2455647)
