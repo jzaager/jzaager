@@ -1,11 +1,20 @@
 # Hi, I'm Justin!
 
-## [Developing Front End Developer](https://github.com/jzaager), [Computer Enthusiast](https://medium.com/@jzaager), and [Software Engineering Student](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html) at WGU
+## Senior Software Engineering Student at [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html)
 
-### I'm also an <a href="https://www.hollywoodreporter.com/movies/movie-news/students-comedy-script-optioned-by-744947/">Optioned Screenwriter!</a>
+### I am...
+
+* [AWS Certified](https://www.credly.com/badges/d94722e6-b71a-444f-8d31-ac2a269292bd/public_url)
+* [CompTIA A+ Certified](https://www.credly.com/badges/220ceaa5-43f3-4d86-85c3-f52f123e89a4/public_url)
+* [An Optioned Screenwriter!](https://www.hollywoodreporter.com/movies/movie-news/students-comedy-script-optioned-by-744947/)
+* [A WGU Certified Front-End Developer](https://api.badgr.io/public/assertions/17woDeEMRyuDePsD2nXqtA)
+
+
 <hr/>
 
-You can follow my progress on my path to become a Full-Stack Web Developer <a href="https://github.com/jzaager/jzaager">right here.</a>
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/justin-zaager-70a28917a/)
+
+## Or follow my progress on my path to become a Full-Stack Developer below.
 
 My most recent projects are below. Track my progress dating back to May 2022, when my journey began!
 
