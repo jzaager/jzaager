@@ -2,25 +2,43 @@
 
 ## Senior Software Engineering Student at [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html)
 
-### I am...
+### I'm also:
 
 * [AWS Certified](https://www.credly.com/badges/d94722e6-b71a-444f-8d31-ac2a269292bd/public_url)
 * [CompTIA A+ Certified](https://www.credly.com/badges/220ceaa5-43f3-4d86-85c3-f52f123e89a4/public_url)
 * [An Optioned Screenwriter!](https://www.hollywoodreporter.com/movies/movie-news/students-comedy-script-optioned-by-744947/)
-* [A WGU Certified Front-End Developer](https://api.badgr.io/public/assertions/17woDeEMRyuDePsD2nXqtA)
+
+## Connect with me on [LinkedIn!](https://www.linkedin.com/in/justin-zaager-70a28917a/)
+
+### Check the progress on my latest projects below:
+
+## March 2024
+### Vacation Booking Application
+* Java, Spring Boot, MySQL
+
+Developed REST API back-end for vacation booking website with full CRUD functionality, cart/checkout system with order tracking number generation, and MySQL database storage.
+<br><br>
+![image](https://github.com/jzaager/jzaager/assets/94499968/5ae139e7-b5ec-4fd8-8f76-de145d183459)
+![image](https://github.com/jzaager/jzaager/assets/94499968/e3f1d73a-83ff-4238-9fa9-206dd2455647)
+![image](https://github.com/jzaager/jzaager/assets/94499968/bf7dc4b6-c63f-479a-8777-ea7816e5585c)
+
+<hr>
 
 
-<hr/>
+## January 2024
+### Shop Inventory Management Application
+* Java, Spring Boot, Bootstrap
 
-## Connect with me on [LinkedIn](https://www.linkedin.com/in/justin-zaager-70a28917a/)
+Developed customizable inventory tracking system for parts and products made from parts with in memory data storage.
+<br><br>
+![image](https://github.com/jzaager/jzaager/assets/94499968/9a666ac0-673d-4389-933a-aaa5fa771683)
 
-## Or follow my progress on my path to become a Full-Stack Developer below.
+<hr>
 
-My most recent projects are below. Track my progress dating back to May 2022, when my journey began!
 
 ## August 2023
-
 ### World Bank Data Retrieval Tool
+* JavaScript, Angular
 
 A web-based application developed to facilitate the retrieval and visualization of economic and geographical statistics for countries worldwide.
 
@@ -31,10 +49,11 @@ A web-based application developed to facilitate the retrieval and visualization 
 
 <hr/>
 
+
 ## October 2022
-
 ### Library App
-
+* HTML, CSS, JavaScript
+  
 A single page web application to store all books on your "to-read" list.
 
 - [Live Version](https://jzaager.github.io/library/)
@@ -44,10 +63,11 @@ A single page web application to store all books on your "to-read" list.
 
 <hr/>
 
+
 ## September 2022
-
 ### Admin Dashboard
-
+* HTML, CSS
+  
 A single page layout of a sample admin dashboard.
 
 - [Live Version](https://jzaager.github.io/admin-dashboard/)
@@ -57,6 +77,7 @@ A single page layout of a sample admin dashboard.
 
 <hr/>
 
+## September 2022
 ### Sign-up Form
 
 An example sign up form with validation.
@@ -68,10 +89,11 @@ An example sign up form with validation.
 
 <hr/>
 
+
 ## August 2022
-
 ### Calculator
-
+* HTML, CSS, JavaScript
+  
 A simple web application to calculate basic math equations based on user input.
 
 - [Live Version](https://jzaager.github.io/Calculator/)
@@ -81,10 +103,11 @@ A simple web application to calculate basic math equations based on user input.
 
 <hr/>
 
+
 ## July 2022
-
 ### Etch-a-Sketch
-
+* HTML, CSS, JavaScript
+  
 A computerized version of a classic handheld toy.
 
 - [Live Version](https://jzaager.github.io/etch-a-sketch/)
@@ -94,8 +117,10 @@ A computerized version of a classic handheld toy.
 
 <hr/>
 
+## July 2022
 ### Rock, Paper, Scissors
-
+* HTML, CSS, JavaScript
+  
 Another classic game brought to life through the browswer.
 
 - [Live Version](https://jzaager.github.io/rock-paper-scissors/)
@@ -106,9 +131,9 @@ Another classic game brought to life through the browswer.
 <hr/>
 
 ## June 2022
-
 ### Dark Side Dobby Landing Page
-
+* HTML, CSS
+  
 A sample landing page to practice basic CSS.
 
 - [Live Version](https://jzaager.github.io/DSD-Landing-Page/)
@@ -118,9 +143,10 @@ A sample landing page to practice basic CSS.
 
 <hr/>
 
-## May 2022
 
+## May 2022
 ### Recipes
+* HTML
 
 My Very first Project. A page to store recipes used to practice basic HTML.
 
