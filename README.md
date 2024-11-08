@@ -12,7 +12,6 @@
 
 ### Check the progress on my latest projects below:
 
-## March 2024
 ### Vacation Booking Application
 * Java, Spring Boot, MySQL
 
@@ -25,7 +24,6 @@ Developed REST API back-end, implementing full CRUD capabilities for a cart/chec
 <hr>
 
 
-## January 2024
 ### Shop Inventory Management Application
 * Java, Spring Boot, Bootstrap
 
@@ -36,7 +34,6 @@ Developed customizable inventory tracking system for parts and products made fro
 <hr>
 
 
-## August 2023
 ### World Bank Data Retrieval Tool
 * JavaScript, Angular
 
@@ -50,7 +47,6 @@ A web-based application developed to facilitate the retrieval and visualization 
 <hr/>
 
 
-## October 2022
 ### Library App
 * HTML, CSS, JavaScript
   
@@ -64,7 +60,6 @@ A single page web application to store all books on your "to-read" list.
 <hr/>
 
 
-## September 2022
 ### Admin Dashboard
 * HTML, CSS
   
@@ -77,7 +72,6 @@ A single page layout of a sample admin dashboard.
 
 <hr/>
 
-## September 2022
 ### Sign-up Form
 
 An example sign up form with validation.
@@ -86,74 +80,6 @@ An example sign up form with validation.
 - [Github Repo](https://github.com/jzaager/sign-up-form) 
 
 ![sing-up-form](https://user-images.githubusercontent.com/94499968/195156305-fe587fe4-bd8e-4678-ba97-d8d58fe47689.png)
-
-<hr/>
-
-
-## August 2022
-### Calculator
-* HTML, CSS, JavaScript
-  
-A simple web application to calculate basic math equations based on user input.
-
-- [Live Version](https://jzaager.github.io/Calculator/)
-- [Github Repo](https://github.com/jzaager/Calculator)
-
-![image](https://user-images.githubusercontent.com/94499968/195336576-d5a9cc6b-75ed-42c5-ace0-1b455dccf84b.png)
-
-<hr/>
-
-
-## July 2022
-### Etch-a-Sketch
-* HTML, CSS, JavaScript
-  
-A computerized version of a classic handheld toy.
-
-- [Live Version](https://jzaager.github.io/etch-a-sketch/)
-- [Github Repo](https://github.com/jzaager/etch-a-sketch)
-
-![image](https://user-images.githubusercontent.com/94499968/195337951-ec9de8cf-9432-421d-a90f-3fdc422701a4.png)
-
-<hr/>
-
-## July 2022
-### Rock, Paper, Scissors
-* HTML, CSS, JavaScript
-  
-Another classic game brought to life through the browswer.
-
-- [Live Version](https://jzaager.github.io/rock-paper-scissors/)
-- [Github Repo](https://github.com/jzaager/rock-paper-scissors)
-
-![image](https://user-images.githubusercontent.com/94499968/195338435-9667b6ac-7280-4025-adc2-beb7c1dda569.png)
-
-<hr/>
-
-## June 2022
-### Dark Side Dobby Landing Page
-* HTML, CSS
-  
-A sample landing page to practice basic CSS.
-
-- [Live Version](https://jzaager.github.io/DSD-Landing-Page/)
-- [Github Repo](https://github.com/jzaager/DSD-Landing-Page)
-
-![image](https://user-images.githubusercontent.com/94499968/195340242-cf8340d3-b2c7-4667-8fff-95bc9bd3110f.png)
-
-<hr/>
-
-
-## May 2022
-### Recipes
-* HTML
-
-My Very first Project. A page to store recipes used to practice basic HTML.
-
-- [Live Version](https://jzaager.github.io/odin-recipes/)
-- [Github Repo](https://github.com/jzaager/odin-recipes)
-
-![image](https://user-images.githubusercontent.com/94499968/195341194-a3676141-dfc8-4e76-94d2-9f8c04be3645.png)
 
 <hr/>
 
