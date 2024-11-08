@@ -1,6 +1,6 @@
 # Hi, I'm Justin!
 
-## Senior Software Engineering Student at [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html)
+## Recent Software Engineering Graduate at [Western Governors University](https://www.wgu.edu/online-it-degrees/software-engineering-bachelors-program.html)
 
 ### I'm also:
 
