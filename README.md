@@ -12,6 +12,18 @@
 
 ### Check the progress on my latest projects below:
 
+### Pokédexcli
+* Golang
+
+A lightweight and fast Pokédex CLI built entirely in Go. Fill up your Pokédex by exploring cities and catching Pokémon. Inspect your caught Pokémon for additional details.
+
+- [Github Repo](https://github.com/jzaager/pokedexcli)
+
+![image](https://github.com/user-attachments/assets/2d0e18be-e11f-469f-906f-a08c3d59e98c)
+
+<hr>
+
+
 ### Vacation Booking Application
 * Java, Spring Boot, MySQL
 
