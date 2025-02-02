@@ -37,7 +37,7 @@ Gator allows users to:
   * Follow and unfollow RSS feeds that other users have added
   * View summaries of the aggregated posts in the terminal, with a link to the full post
 
-
+![image](https://github.com/user-attachments/assets/e472ee0b-49b1-4bbc-92ae-d59d4d49fe44)
 
 <hr>
 
