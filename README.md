@@ -24,6 +24,24 @@ A lightweight and fast Pokédex CLI built entirely in Go. Fill up your Pokédex 
 <hr>
 
 
+### Gator
+* Golang
+* PostgreSQL
+
+An RSS feed aggregator built in Go and run from the command line.
+- [Github Repo](https://github.com/jzaager/gator)
+
+Gator allows users to:
+  * Add RSS feeds to be collected
+  * Store the collected posts in a PostgreSQL database
+  * Follow and unfollow RSS feeds that other users have added
+  * View summaries of the aggregated posts in the terminal, with a link to the full post
+
+
+
+<hr>
+
+
 ### Vacation Booking Application
 * Java, Spring Boot, MySQL
 
